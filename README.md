@@ -74,5 +74,3 @@ void loop() {
 2. Extract it to your `Documents/Arduino/libraries/` folder.
 3. Restart the Arduino IDE and use `#include "My_MCP23017.h"` in your sketch.
 
-## License
-This library is open-source and can be freely used and modified.
